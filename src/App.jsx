@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-import Hero from './components/Hero';
+import Hero from './components/Hero.jsx';
 import About from './components/About';
 import Academics from './components/Academics';
 import Facilities from './components/Facilities';
